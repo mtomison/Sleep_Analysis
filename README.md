@@ -16,6 +16,7 @@ X - Jordon, " "
 
 
 # Sleep_Analysis
+
 How well rested will I be?
 
 ## Overview
@@ -62,4 +63,3 @@ following:
 ✓ Sample data that mimics theexpected final database structure or schema
 ✓ Draft machine learning module isconnected to the provisional database
   
-
