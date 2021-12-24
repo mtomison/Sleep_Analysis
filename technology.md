@@ -1,6 +1,7 @@
 # Technologies Used
 ## Data Cleaning and Analysis
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+Some initial analysis will be done on Tableau.  [Sleep Analysis Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 
 ## Database Storage
 Mongo is the database we intend to use, and we will integrate Flask to display the data.
