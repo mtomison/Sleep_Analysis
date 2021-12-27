@@ -1,20 +1,3 @@
-I wanted to make sure I understand my duties before its too late. according to the curriculum the shapes should shift, and i think i tag jordon out. 
-Can you please verify this or correct it if needed. Below is an outline format of information, There is some stuff I dont know the answer to so I left it easy to edit. Add more questions that anyone needs answered.  Sections that need followup are below including Description of the communication protocols, Provisional machine learning mode, and Provisional\Database. can anyone try to help complete those?
-
-Weeks 1 and 2
-
-Misty - Square, circle
-
-Tirangle - Laura, triangle
-
-Circle - Megan, X
-
-X - Jordon, " "        
-
-" " - Danny, square
-
-
-
 # Sleep_Analysis
 
 How well rested will I be?
