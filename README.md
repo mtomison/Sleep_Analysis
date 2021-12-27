@@ -1,19 +1,4 @@
-I wanted to make sure I understand my duties before its too late. according to the curriculum the shapes should shift, and i think i tag jordon out. 
-Can you please verify this or correct it if needed. Below is an outline format of information, There is some stuff I dont know the answer to so I left it easy to edit. Add more questions that anyone needs answered.  Sections that need followup are below including Description of the communication protocols, Provisional machine learning mode, and Provisional\Database. can anyone try to help complete those?
-
-Weeks 1 and 2
-
-Misty - Square, circle
-
-Tirangle - Laura, triangle
-
-Circle - Megan, X
-
-X - Jordon, " "        
-
-" " - Danny, square
-
-
+At first we thought to have two ML models, one to predict the users mood and one to predict the sleep quality. Instead of users entering a value for the sleep quality, we would try and predict it based off the length of time in bed. However after trying out several models, I couldn't find one that had an accuracy so we decided instead to have one ML model to predict the sleep quality using all of the data points. 
 
 # Sleep_Analysis
 
