@@ -5,11 +5,11 @@
 ### Roles
 Roles per Week
 
-Square:  Misty, Danny
-Circle:  Megan, Misty
-Triangle:  Laura, Laura
-X:  Jordan, Megan
-Float:  Danny, Jordan
+' Square:  Misty, Danny
+' Circle:  Megan, Misty
+' Triangle:  Laura, Laura
+' X:  Jordan, Megan
+' Float:  Danny, Jordan
 
 > What will my sleep quality be?
 
