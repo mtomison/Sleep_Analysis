@@ -17,7 +17,7 @@ Float| Danny| Jordan | | | |
 
 [Slides for Deliverable 2](https://docs.google.com/presentation/d/1j7FuZVb4ZCLHZEEQKor6bo9HhYAhEbjMTLDpLTC-69g/edit?usp=sharing)
 
-### Visualizing teh Data with Tableau:
+### Visualizing the Data with Tableau:
 
 1. [Wake Up](https://public.tableau.com/app/profile/megan.speaks/viz/WakeUp/WakeUp)
 2. [Sleep Notes](https://public.tableau.com/app/profile/megan.speaks/viz/SleepNotes/SleepNotes)
