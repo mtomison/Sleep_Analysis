@@ -3,13 +3,13 @@
 [Sleep Analysis Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 
 ### Roles
-|Role|Week 1|Week 2| Week 3| Week 4|
-|--|--|--|--|--|
-|Square |Misty |Danny|  |  |
-|Circle|Megan|Misty|   | |
-|Triangle|Laura|Laura|  |  |
-|X | Jordan|Megan|   |  |
-Float| Danny| Jordan | | | |
+Roles per Week
+
+Square:  Misty, Danny
+Circle:  Megan, Misty
+Triangle:  Laura, Laura
+X:  Jordan, Megan
+Float:  Danny, Jordan
 
 > What will my sleep quality be?
 
