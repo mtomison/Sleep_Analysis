@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# Sleep Analysis
+## Images
+[Sleep Analysis Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 
-You can use the [editor on GitHub](https://github.com/mtomison/Sleep_Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Roles
+|Role|Week 1|Week 2| Week 3| Week 4|
+|--|--|--|--|--|
+|Square |Misty |Danny|  |  |
+|Circle|Megan|Misty|   | |
+|Triangle|Laura|Laura|  |  |
+|X | Jordan|Megan|   |  |
+Float| Danny| Jordan | | | |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> What will my sleep quality be?
 
-### Markdown
+## Our Journey
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Slides for Deliverable 2](https://docs.google.com/presentation/d/1j7FuZVb4ZCLHZEEQKor6bo9HhYAhEbjMTLDpLTC-69g/edit?usp=sharing)
 
-```markdown
-Syntax highlighted code block
+### Visualizing teh Data with Tableau:
 
-# Header 1
-## Header 2
-### Header 3
+1. [Wake Up](https://public.tableau.com/app/profile/megan.speaks/viz/WakeUp/WakeUp)
+2. [Sleep Notes](https://public.tableau.com/app/profile/megan.speaks/viz/SleepNotes/SleepNotes)
+3. [Activity](https://public.tableau.com/app/profile/megan.speaks/viz/Activity_16405816723450/Activity)
+4. [Time in Bed](https://public.tableau.com/app/profile/megan.speaks/viz/TimeinBed/TimeinBed)
+5. [Heart Rate](https://public.tableau.com/app/profile/megan.speaks/viz/HeartRate_16405815842860/HeartRate)
 
-- Bulleted
-- List
+> How well rested will I be?
 
-1. Numbered
-2. List
+## Overview
+This project analyzes sleep data collected from Sleep Cycle iOS App in order to determine what contributes to good sleep. Factors examined are caffeine consumption, physical activity, heart rate, and length of time sleeping. We will use machine learning models to predictt if a person will have good or poor sleep based on these factors.
 
-**Bold** and _Italic_ and `Code` text
+## Content
+- Selected topic
 
-[Link](url) and ![Image](src)
-```
+  Sleep Study
+  
+- Reason why they selected their topic
+  
+  The information is truly valauble with a broad scope of application
+  
+- Description of their source of data
+  
+  Sleep Cycle iOS App 
+  metrics of caffeine consumption, physical activity, heart rate, and length of time sleeping
+  
+- Questions they hope to answer with the data
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+  Which behaviors contribute to quality sleep?
+  
+  How does one quantify "good sleep"?
+  
+## Description of the communication protocols:
+README.md must include:
+✓ Description of the communication protocols Individual Branches
+✓ At least one branch for each team member
+✓ Each team member has at least four commits from the duration of the first segment
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtomison/Sleep_Analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Provisional machine learning mode:
+Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+RandomForest
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+## Provisional\Database:
+Team members present a provisional\database that stands in for the final database and accomplishes the
+following:
+
+✓ Sample data that mimics theexpected final database structure or schema
+✓ Draft machine learning module isconnected to the provisional database
+
