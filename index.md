@@ -35,7 +35,7 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 ## [Machine Learning Model](https://github.com/mtomison/Sleep_Analysis/blob/4d5ef2822083da144fef9e1293622215375d8374/Machine%20Learning.md)
 > Initially: RandomForest; RandomForest was not useable because there is not enough data. We ended up with 887 records, so we concluded that the best machine learning model is...
 
-[Preprocessing Jupyter Notebook](sleepDataPreprocessing.ipynb)
+[Preprocessing Jupyter Notebook](https://github.com/mtomison/Sleep_Analysis/blob/d4f4f5e70c98f9fe5b5c7734a78d91e9b74008f0/sleepDataPreprocessing.ipynb)
 
 ## Database
 - Description of source data
