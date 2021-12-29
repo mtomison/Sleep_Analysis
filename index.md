@@ -32,7 +32,7 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
   How does one quantify "good sleep"?
 
 
-## Machine Learning Model
+## [Machine Learning Model](Machine Learning.md)
 > Initially: RandomForest; RandomForest was not useable because there is not enough data. We ended up with 887 records, so we concluded that the best machine learning model is...
 
 ## Database
