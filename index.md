@@ -17,6 +17,8 @@ Roles per week
 
 [Slides for Deliverable 2](https://docs.google.com/presentation/d/1j7FuZVb4ZCLHZEEQKor6bo9HhYAhEbjMTLDpLTC-69g/edit?usp=sharing)
 
+[Segment 3 Update](Seg3.md)
+
 ### Visualizing the Data with Tableau:
 
 1. [Wake Up](https://public.tableau.com/app/profile/megan.speaks/viz/WakeUp/WakeUp)
