@@ -4,10 +4,10 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 
 > Questions to answer with the data
 
-- Which behaviors contribute to quality sleep?
-- How does one quantify "good sleep"?
-- What will my sleep quality be?
-- How well rested will I be?
+> - Which behaviors contribute to quality sleep?
+> - How does one quantify "good sleep"?
+> - What will my sleep quality be?
+> - How well rested will I be?
 
 ## [Presentation](https://github.com/mtomison/Sleep_Analysis/blob/87e52ae2c04c7f6e4d39e198b6799acf30284674/Sleep%20Analysis%20Deliverable%202%20Draft%20v2.pdf)
 
