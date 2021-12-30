@@ -33,7 +33,8 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 
 
 ## [Machine Learning Model](https://github.com/mtomison/Sleep_Analysis/blob/4d5ef2822083da144fef9e1293622215375d8374/Machine%20Learning.md)
-> Initially: RandomForest; RandomForest was not useable because there is not enough data. We ended up with 887 records, so we concluded that the best machine learning model is...
+- Preliminary data preprocessing originally limited our usable data to only 162 rows. We have decided to make our target the Sleep Quality feature as it is more outcomes to predict. This change in plan required more preprocessing. A df_tranformed.csv has been generated where all features are in the form of a 1 or 0, allowing for model functionality and keeping 887 complete rows of data. *Updated December 30*
+- Initially: RandomForest; RandomForest was not useable because there is not enough data. We ended up with 887 records, so we concluded that the best machine learning model is...
 
 [Preprocessing Jupyter Notebook](https://github.com/mtomison/Sleep_Analysis/blob/d4f4f5e70c98f9fe5b5c7734a78d91e9b74008f0/sleepDataPreprocessing.ipynb)
 
@@ -55,4 +56,4 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 5. [Heart Rate](https://public.tableau.com/app/profile/megan.speaks/viz/HeartRate_16405815842860/HeartRate)
 
 ## Description of the communication protocols:
-
+All communications are done via Slack, Github branch push/pull/merges for each project team member, and during live class times.
