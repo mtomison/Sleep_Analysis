@@ -35,7 +35,7 @@ This limited our data-frame to only 162 rows, and only one of two outcomes. Afte
   metrics of caffeine consumption, physical activity, heart rate, and length of time sleeping
   
   We are using Mongo Atlas and Mongo Compass to store and access our data set.  
-  > ![Schema](https://github.com/mtomison/Sleep_Analysis/blob/89ef3b8805454486202e69244a42daa1dcd25789/Schema.jpg)
+  ![Schema](https://github.com/mtomison/Sleep_Analysis/blob/89ef3b8805454486202e69244a42daa1dcd25789/Schema.jpg)
 
 ## [Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 ### Visualizing the Data with Tableau:
