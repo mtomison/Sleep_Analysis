@@ -12,10 +12,6 @@ Triangle: Laura, Laura
 X: Jordan, Megan
 Float: Danny, Jordan
 
-
-
-# Sleep_Analysis
-
 What will my sleep quality be?
 
 Our Journey:
@@ -29,9 +25,6 @@ Visualizing the Data with Tableau:
 3. [Activity](https://public.tableau.com/app/profile/megan.speaks/viz/Activity_16405816723450/Activity)
 4. [Time in Bed](https://public.tableau.com/app/profile/megan.speaks/viz/TimeinBed/TimeinBed)
 5. [Heart Rate](https://public.tableau.com/app/profile/megan.speaks/viz/HeartRate_16405815842860/HeartRate)
-
-
-How well rested will I be?
 
 ## Overview
 This project analyzes sleep data collected from Sleep Cycle iOS App in order to determine what contributes to good sleep. Factors examined are caffeine consumption, physical activity, heart rate, and length of time sleeping. We will use machine learning models to predictt if a person will have good or poor sleep based on these factors.
