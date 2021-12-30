@@ -13,9 +13,6 @@ X: Jordan, Megan
 Float: Danny, Jordan
 
 
-
-# Sleep_Analysis
-
 What will my sleep quality be?
 
 Our Journey:
