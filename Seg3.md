@@ -3,15 +3,13 @@
 [Sleep Analysis Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 
 ### Roles
-Roles per week
+Roles weeks 1, 2, 3 ~
 
- - Square:  Misty, Danny
- - Circle:  Megan, Misty
- - Triangle:  Laura, Laura
- - X:  Jordan, Megan
- - Float:  Danny, Jordan
-
-> What will my sleep quality be?
+ - Square:  Misty, Danny, Misty
+ - Circle:  Megan, Misty, Megan
+ - Triangle:  Laura, Laura, 
+ - X:  Jordan, Megan, 
+ - Float:  Danny, Jordan, 
 
 ## Our Journey
 
@@ -24,8 +22,6 @@ Roles per week
 3. [Activity](https://public.tableau.com/app/profile/megan.speaks/viz/Activity_16405816723450/Activity)
 4. [Time in Bed](https://public.tableau.com/app/profile/megan.speaks/viz/TimeinBed/TimeinBed)
 5. [Heart Rate](https://public.tableau.com/app/profile/megan.speaks/viz/HeartRate_16405815842860/HeartRate)
-
-> How well rested will I be?
 
 ## Overview
 This project analyzes sleep data collected from Sleep Cycle iOS App in order to determine what contributes to good sleep. Factors examined are caffeine consumption, physical activity, heart rate, and length of time sleeping. We will use machine learning models to predictt if a person will have good or poor sleep based on these factors.
@@ -50,24 +46,24 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
   
   How does one quantify "good sleep"?
   
+  What will my sleep quality be?
+ 
+  How well rested will I be?
+  
 ## Description of the communication protocols:
 
-✓ Individual Branches; At least one branch for each team member and each team member has at least four commits from the duration of the first segment
-
-> ??
+✓ All communications are done via Slack, Github branch push/pull/merges for each project team member, and during live class times.
 
 
 ## Provisional machine learning mode:
-Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-RandomForest
-
-> RandomForest was not useable because there is not enough data. We ended up with 887 records, so we concluded that the best machine learning model is...
+- Preliminary data preprocessing originally limited our usable data to only 162 rows. We have decided to make our target the Sleep Quality feature as it is more outcomes to predict. This change in plan required more preprocessing. A df_tranformed.csv has been generated where all features are in the form of a 1 or 0, allowing for model functionality and keeping 887 complete rows of data. *Updated December 30*
+- Before deciding to switch our target we were planning to predict an emoji symbol that represents the mood one should wake up in based upon other features. This limited our data-frame to only 162 rows, and only one of two outcomes. After some deliberation it made more sense to drop that column and try to predict Sleep Quality on a scale of 1-100. Models have been started.
 
 
 
 ## Provisional\Database:
-Team members present a provisional\database that stands in for the final database and accomplishes the
-following:
+Description of source data
 
-✓ Sample data that mimics the expected final database structure or schema
-✓ Draft machine learning module isconnected to the provisional database
+Sleep Cycle iOS App metrics of caffeine consumption, physical activity, heart rate, and length of time sleeping
+
+We are using Mongo Atlas and Mongo Compass to store and access our data set.
