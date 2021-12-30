@@ -12,25 +12,14 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 ## [Presentation](https://github.com/mtomison/Sleep_Analysis/blob/87e52ae2c04c7f6e4d39e198b6799acf30284674/Sleep%20Analysis%20Deliverable%202%20Draft%20v2.pdf)
 
 ### Content
-- Selected topic
+#### Selected topic
 
   Sleep Study
   
-- Reason for topic selection
+#### Reason for topic selection
   
   The information is truly valuable with a broad scope of application
   
-- Description of source data
-  
-  Sleep Cycle iOS App 
-  metrics of caffeine consumption, physical activity, heart rate, and length of time sleeping
-  
-- Questions to answer with the data
-
-  Which behaviors contribute to quality sleep?
-  
-  How does one quantify "good sleep"?
-
 
 ## [Machine Learning Model](https://github.com/mtomison/Sleep_Analysis/blob/4d5ef2822083da144fef9e1293622215375d8374/Machine%20Learning.md)
 - Preliminary data preprocessing originally limited our usable data to only 162 rows. We have decided to make our target the Sleep Quality feature as it is more outcomes to predict. This change in plan required more preprocessing. A df_tranformed.csv has been generated where all features are in the form of a 1 or 0, allowing for model functionality and keeping 887 complete rows of data. *Updated December 30*
@@ -45,6 +34,7 @@ This limited our data-frame to only 162 rows, and only one of two outcomes. Afte
   Sleep Cycle iOS App 
   metrics of caffeine consumption, physical activity, heart rate, and length of time sleeping
   
+  We are using Mongo Atlas and Mongo Compass to store and access our data set.  
   [Schema](https://github.com/mtomison/Sleep_Analysis/blob/d4f4f5e70c98f9fe5b5c7734a78d91e9b74008f0/Schema.jpg)
 
 ## [Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
