@@ -2,7 +2,7 @@
 ## Overview
 This project analyzes sleep data collected from Sleep Cycle iOS App in order to determine what contributes to good sleep. Factors examined are caffeine consumption, physical activity, heart rate, and length of time sleeping. We will use machine learning models to predictt if a person will have good or poor sleep based on these factors.
 
-> Questions to answer with the data
+#### Questions to answer with the data
 
 > - Which behaviors contribute to quality sleep?
 > - How does one quantify "good sleep"?
