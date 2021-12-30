@@ -21,7 +21,7 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
   The information is truly valuable with a broad scope of application
   
 
-## [Machine Learning Model](Machine Learning.md)
+## [Machine Learning Model](https://github.com/mtomison/Sleep_Analysis/gh-pages/Machine%20Learning.md)
 - Preliminary data preprocessing originally limited our usable data to only 162 rows. We have decided to make our target the Sleep Quality feature as it is more outcomes to predict. This change in plan required more preprocessing. A df_tranformed.csv has been generated where all features are in the form of a 1 or 0, allowing for model functionality and keeping 887 complete rows of data. *Updated December 30*
 - Before deciding to switch our target we were planning to predict an emoji symbol that represents the mood one should wake up in based upon other features.
 This limited our data-frame to only 162 rows, and only one of two outcomes. After some deliberation it made more sense to drop that column and try to predict Sleep Quality on a scale of 1-100. Models have been started.
