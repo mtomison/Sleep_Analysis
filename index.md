@@ -9,7 +9,7 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 > - What will my sleep quality be?
 > - How well rested will I be?
 
-## [Presentation](https://github.com/mtomison/Sleep_Analysis/blob/87e52ae2c04c7f6e4d39e198b6799acf30284674/Sleep%20Analysis%20Deliverable%202%20Draft%20v2.pdf)
+## [Presentation](https://github.com/mtomison/Sleep_Analysis/blob/gh-pages/Sleep%20Analysis%20Deliverable%202%20Draft%20v2.pdf)
 
 ### Content
 #### Selected topic
@@ -26,7 +26,7 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 - Before deciding to switch our target we were planning to predict an emoji symbol that represents the mood one should wake up in based upon other features.
 This limited our data-frame to only 162 rows, and only one of two outcomes. After some deliberation it made more sense to drop that column and try to predict Sleep Quality on a scale of 1-100. Models have been started.
 
-[Preprocessing Jupyter Notebook](https://github.com/mtomison/Sleep_Analysis/blob/d4f4f5e70c98f9fe5b5c7734a78d91e9b74008f0/sleepDataPreprocessing.ipynb)
+[Preprocessing Jupyter Notebook](https://github.com/mtomison/Sleep_Analysis/blob/main/sleepDataPreprocessing.ipynb)
 
 ## Database
 - Description of source data
@@ -35,7 +35,7 @@ This limited our data-frame to only 162 rows, and only one of two outcomes. Afte
   metrics of caffeine consumption, physical activity, heart rate, and length of time sleeping
   
   We are using Mongo Atlas and Mongo Compass to store and access our data set.  
-  > ![Schema](https://github.com/mtomison/Sleep_Analysis/blob/d4f4f5e70c98f9fe5b5c7734a78d91e9b74008f0/Schema.jpg)
+  > ![Schema](https://github.com/mtomison/Sleep_Analysis/blob/main/Schema.jpg)
 
 ## [Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 ### Visualizing the Data with Tableau:
