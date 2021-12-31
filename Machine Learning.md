@@ -1,5 +1,5 @@
 # Preprocessing the Data
-![Sleep Scatter Plot](./Images/JN scatter plot.png)
+![Sleep Scatter Plot](../Images/JN scatter plot.png)
 #### Define the features set.
 X = df.copy()
 X = X.drop(columns=["Sleep quality"], axis=1) # features
