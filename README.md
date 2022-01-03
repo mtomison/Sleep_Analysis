@@ -4,6 +4,8 @@ Are you getting adequate sleep?
 ### Images
 [Sleep Analysis Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 
+### [Github page](https://mtomison.github.io/Sleep_Analysis/)
+
 Weeks 1 and 2
 
 Square: Misty, Danny
