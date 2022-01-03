@@ -4,6 +4,9 @@ Are you getting adequate sleep?
 ### Images
 [Sleep Analysis Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 
+### [Gihub page](https://mtomison.github.io/Sleep_Analysis/)
+
+
 Weeks 1 and 2
 
 Square: Misty, Danny
@@ -66,7 +69,7 @@ This limited our data-frame to only 162 rows, and only one of two outcomes. Afte
 Main branch currently has folders and files that access Google Slides presentation draft. Theme, images graphs and charts have been loaded onto Tableau Dashboard.
 Some models have been created, more are needed. An index.html file has been created for the end user. It is not yet functional. A presentation outline has been created.
 
-## Provisional\Database:
+## Provisional / Database:
 Team members present a provisional\database that stands in for the final database and accomplishes the
 following:
 
