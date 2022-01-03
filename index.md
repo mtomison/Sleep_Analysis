@@ -26,7 +26,7 @@ This project analyzes sleep data collected from Sleep Cycle iOS App in order to 
 - Before deciding to switch our target we were planning to predict an emoji symbol that represents the mood one should wake up in based upon other features.
 This limited our data-frame to only 162 rows, and only one of two outcomes. After some deliberation it made more sense to drop that column and try to predict Sleep Quality on a scale of 1-100. Models have been started.
 
-[Preprocessing Jupyter Notebook](https://github.com/mtomison/Sleep_Analysis/blob/main/sleepDataPreprocessing.ipynb)
+[Preprocessing Jupyter Notebooks](https://github.com/mtomison/Sleep_Analysis/tree/main/Modeling)
 
 ## Database
 - Description of source data
