@@ -19,7 +19,17 @@ Initially, we looked for topics of interest on Kaggle to see the data that was a
 #### Database
 Initially, we talked about using other database web applications.  However due to the potential cost and our desire to use free applications, we selected MongoDB Atlas and Compass to store and connect to our dataset.
 
-![Schema](Images/Schema.jpg)
+* Free
+* Simple
+* High Speed
+* Flexible
+
+*Database Schema*
+![Schema](Images/Schema.jpg)  
+
+*Mongo DB*
+
+![MongoDB](Images/MongoDB.jpg)   
 
 *Starting Data*
 
