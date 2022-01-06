@@ -38,7 +38,13 @@ Preliminarily, the data preprocessing and cleaning reduced our dataset to 162 us
 ## Pivot Direction
 We decided to make our target the Sleep Quality feature as it has more outcomes to predict. This change in plan required more preprocessing. A df_tranformed.csv has been generated where all features are in the form of a 1 or 0, allowing for model functionality and keeping 887 complete rows of data. 
 
-![Transformed Data](Images/df_transformed.jpg)
+![Original Data](Images/slide_1a.jpg)  ![Transformed Data](Images/slide_1b.jpg)
+
+## Linear Regression Model
+![LinReg Model](Images/slide_2.jpg)
+
+## Model Testing
+![ModelTesting](Images/slide_3.jpg)
 
 ## Final Product
 ### [Finished Model](https://github.com/mtomison/Sleep_Analysis/tree/main/Finished_models)
