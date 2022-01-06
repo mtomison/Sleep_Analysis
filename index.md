@@ -35,7 +35,7 @@ We decided to make our target the Sleep Quality feature as it has more outcomes 
 ## Final Product
 ### [Finished Model](https://github.com/mtomison/Sleep_Analysis/tree/main/Finished_models)
 
-### [Web Page](https://github.com/mtomison/Sleep_Analysis/tree/main/Presentation)
+### [Web Page](https://github.com/mtomison/Sleep_Analysis/tree/main/the_rest)
 
 ## [Dashboard](https://public.tableau.com/app/profile/misty.tomison/viz/SleepAnalysis_16403125127800/SleepAnalysis?publish=yes)
 ### Visualizing the Data with Tableau:
