@@ -56,7 +56,7 @@ We decided to make our target the Sleep Quality feature as it has more outcomes 
 
 
 ## Improvement Ideas
-- Save user inputs and retrain model as more data gets gathered.
-- Format so no matter what a user put in the freeform fields, it would either translate to the appropriate number format or kick back an error.
+- Save user inputs and retrain model as more data is gathered.
+- Format user inputs to adhere to needed numbers or trigger an error.
 
 
