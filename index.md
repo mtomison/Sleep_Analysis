@@ -13,6 +13,11 @@ Initially, we looked for topics of interest on Kaggle to see the data that was a
 
 *Original Kaggle Data Set* - [Sleep Cycle iOS App ](https://www.kaggle.com/danagerous/sleep-data)
 
+#### Database
+Initially, we talked about using other database web applications.  However due to the potential cost and our desire to use free applications, we selected MongoDB Atlas and Compass to store and connect to our dataset.
+
+![Schema](Images/Schema.jpg)
+
 *Starting Data*
 
 ![Starting Data](Images/orig_dataset.jpg)
