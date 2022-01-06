@@ -53,3 +53,10 @@ We decided to make our target the Sleep Quality feature as it has more outcomes 
 3. [Activity](https://public.tableau.com/app/profile/megan.speaks/viz/Activity_16405816723450/Activity)
 4. [Time in Bed](https://public.tableau.com/app/profile/megan.speaks/viz/TimeinBed/TimeinBed)
 5. [Heart Rate](https://public.tableau.com/app/profile/megan.speaks/viz/HeartRate_16405815842860/HeartRate)
+
+
+## Improvement Ideas
+- Save user inputs and retrain model as more data gets gathered.
+- Format so no matter what a user put in the freeform fields, it would either translate to the appropriate number format or kick back an error.
+
+
