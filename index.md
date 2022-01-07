@@ -56,6 +56,16 @@ We decided to make our target the Sleep Quality feature as it has more outcomes 
 ## Model Testing
 ![ModelTesting](Images/slide_3.jpg)
 
+## Flask Assembly
+![Flask](Images/Flask.jpg) ![html](Images/html.jpg)
+
+## Project Challenges
+
+> - Dataset shortcomings
+> - Casting user inputs to integers
+> - Achieving high accuracy model
+> - Shaping variables
+
 ## Final Product
 ### [Finished Model](https://github.com/mtomison/Sleep_Analysis/tree/main/Finished_models)
 
