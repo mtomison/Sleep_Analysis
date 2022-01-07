@@ -3,7 +3,7 @@
 [Presentation](https://github.com/mtomison/Sleep_Analysis/blob/gh-pages/Sleep%20Analysis%20.pdf)
 
 ## Overview
-This project analyzes sleep data collected from Sleep Cycle iOS App on Kaggle in order to determine what contributes to good sleep. Factors examined are caffeine consumption, physical activity, heart rate, and length of time sleeping. We will use machine learning models to predict if a person will have good or poor sleep based on these factors.
+This project analyzes sleep data collected from Sleep Cycle iOS App on Kaggle in order to determine what contributes to good sleep. Factors examined are caffeine consumption, physical activity, heart rate, and length of time sleeping. We used Linear Regression Model to train our data so we could measure the quality of a person's sleep based on these factors.
 
 #### Questions to answer with the data
 > - Which behaviors contribute to quality sleep?
